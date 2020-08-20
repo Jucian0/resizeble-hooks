@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "github.com/Jucian0/resizable-hooks",
   "author": "Jucian0",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.9.46",
+    "react": "^16.13.1"
+  }
 }
