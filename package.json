@@ -1,0 +1,9 @@
+{
+  "name": "resize-hooks",
+  "version": "0",
+  "description": "Hooks resize divs",
+  "main": "index.js",
+  "repository": "github.com/Jucian0/resizable-hooks",
+  "author": "Jucian0",
+  "license": "MIT"
+}
